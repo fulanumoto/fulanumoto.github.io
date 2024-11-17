@@ -56,14 +56,19 @@ auto_hide = true
 show_feed = false
 links = [
 	{ url = "@/blog/_index.md", name = "Blog" },
-	{ url = "@/webrings/index.md", name = "webring" },
-	{ url = "@/about/index.md", name = "عن الموقع" },
+        { url = "@/webrings/index.md", name = "webring" },
+        { name = "المزيد", menu = [
+		{ url = "@/nanolog/_index.md", name = "kunisha" },
+	] },
 ]
 
 [extra.footer]
 show_copyright = true
 show_powered_by = false
 copyright = "`نِصف الحقوق محفوظة، 2024 ©`" 
+links = [
+	{ url = "@/about/index.md", name = "عن الموقع" },
+]
 
 #Social links in the footer.
 # Any URL-encoded SVG can be used as an icon.

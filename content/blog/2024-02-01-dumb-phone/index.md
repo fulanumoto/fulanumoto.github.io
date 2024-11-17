@@ -6,6 +6,7 @@ tags = ["مجتمع", "تقنية"]
 [extra]
 accent_color = "#48889c"
 accent_color_dark = "#48889c"
+featured = true
 toc = true
 banner = "banner.jpg"
 +++

@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-{%- set date_locale = macros_translate::translate(key="date_locale", default="en_US", language_strings=language_strings) -%}
+{%- set date_locale = macros_translate::translate(key="date_locale", default="ar_SA", language_strings=language_strings) -%}
 <h1>{{ section.title }}<a href="atom.xml"><i class="icon feed"></i></a></h1>
 
 {{ section.description | markdown | safe }}
@@ -14,7 +14,7 @@
                 <small>{{ page.title }}</small>
             </div>
             <div>
-                <a href="{{ page.permalink | safe }}">View Post</a>
+                <a href="{{ page.permalink | safe }}">اقرأ الخاطرة</a>
                 {{ page.content | safe }}
             </div>
         </li>

@@ -8,6 +8,9 @@ accent_color = "#7c54f4"
 accent_color_dark = "#7c54f4"
 toc = true
 banner = "banner.png"
+disclaimer = """
+- غيّرت أكثر البرامج المذكورة ونقلت بعضها لخادوم لي. وقد أكتب مقال عنه واستعمالاتي له.
+"""
 +++
 
 <h2 style="text-align:center">السلام عليكم ورحمة الله وبركاته</h2>

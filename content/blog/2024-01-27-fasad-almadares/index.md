@@ -1,12 +1,12 @@
 +++
 title = "فساد المدارس"
-description = "علمٌ لا ينفع"
+description = "علمٌ لا ينفع."
 [taxonomies]
 tags = ["مجتمع"]
 [extra]
 accent_color = "#d08898"
 accent_color_dark = "#bc64bc"
-featured = true
+hot = true
 toc = true
 banner = "banner.jpeg"
 +++
