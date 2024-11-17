@@ -25,11 +25,11 @@
   src: url('/fonts/baloo-bhaijaan-2-v19-arabic_latin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-/* baloo-bhaijaan-2-700 - arabic_latin */
+// Geist Mono
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Baloo Bhaijaan 2';
-  font-style: normal;
-  font-weight: 700;
-  src: url('/fonts/baloo-bhaijaan-2-v19-arabic_latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+	font-style: normal;
+	font-weight: 100 900;
+	src: url("fonts/geist-mono.woff2") format("woff2");
+	font-family: "Geist Mono";
+	font-display: swap;
 }
