@@ -1,42 +1,35 @@
+/* baloo-bhaijaan-2-regular - arabic_latin */
 @font-face {
-	font-style: normal;
-	font-weight: 100 900;
-	src: url("fonts/BalooBhaijaan2-Regular.ttf") format("ttf");
-	font-family: "Baloo Bhaijaan 2";
-	font-display: swap;
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Baloo Bhaijaan 2';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/baloo-bhaijaan-2-v19-arabic_latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-
+/* baloo-bhaijaan-2-500 - arabic_latin */
 @font-face {
-	font-style: normal;
-	font-weight: 100 900;
-	src: url("fonts/NotoSansJP-Regular.ttf") format("ttf");
-	font-family: "Noto Sans JP";
-	font-display: swap;
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Baloo Bhaijaan 2';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/fonts/baloo-bhaijaan-2-v19-arabic_latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-
-body {
-	font-family: "Baloo Bhaijaan 2", var(--font-system-ui), var(--font-emoji);
+/* baloo-bhaijaan-2-600 - arabic_latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Baloo Bhaijaan 2';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/baloo-bhaijaan-2-v19-arabic_latin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	font-weight: bold;
-	font-family: "Baloo Bhaijaan 2", var(--font-system-ui), var(--font-emoji);
-}
-
-h1 {
-	font-weight: 900;
-}
-
-pre,
-code,
-kbd,
-samp {
-	font-family: "Noto Sans JP", var(--font-monospace-code);
+/* baloo-bhaijaan-2-700 - arabic_latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Baloo Bhaijaan 2';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/baloo-bhaijaan-2-v19-arabic_latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
