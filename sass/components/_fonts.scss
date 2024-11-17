@@ -1,0 +1,42 @@
+@font-face {
+	font-style: normal;
+	font-weight: 100 900;
+	src: url("fonts/BalooBhaijaan2-Regular.ttf") format("ttf");
+	font-family: "Baloo Bhaijaan 2";
+	font-display: swap;
+}
+
+
+@font-face {
+	font-style: normal;
+	font-weight: 100 900;
+	src: url("fonts/NotoSansJP-Regular.ttf") format("ttf");
+	font-family: "Noto Sans JP";
+	font-display: swap;
+}
+
+
+body {
+	font-family: "Baloo Bhaijaan 2", var(--font-system-ui), var(--font-emoji);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: bold;
+	font-family: "Baloo Bhaijaan 2", var(--font-system-ui), var(--font-emoji);
+}
+
+h1 {
+	font-weight: 900;
+}
+
+pre,
+code,
+kbd,
+samp {
+	font-family: "Noto Sans JP", var(--font-monospace-code);
+}

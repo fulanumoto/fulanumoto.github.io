@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Sitemap: {{ get_url(path="sitemap.xml") }}
+
+# Borrowed from seirdy.one
+
+User-Agent: Adsbot
+User-agent: Applebot-Extended
+User-Agent: BLEXBot
+User-agent: BrandVerity/1.0
+User-agent: ChatGPT-User
+User-agent: CheckMarkNetwork/1.0 (+https://www.checkmarknetwork.com/spider.html)
+User-agent: ClaudeBot
+User-Agent: FacebookBot
+User-agent: Google-Extended
+User-agent: GPTBot
+User-Agent: meta-externalagent
+User-Agent: NPBot
+User-agent: peer39_crawler
+User-Agent: peer39_crawler/1.0
+User-agent: PiplBot
+User-Agent: SlySearch
+User-Agent: TurnitinBot
+Disallow: /

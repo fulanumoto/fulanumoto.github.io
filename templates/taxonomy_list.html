@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+{%- set number_of_tags = terms | length -%}
+
+<div class="crt scanlines" aria-hidden="true">
+<pre>
+        _
+       | ]
+     .-|=====-.
+     | | TAGS |   
+     |________|___
+          ||
+          ||
+          ||   www                %%%
+   vwv    ||   )_(,;;;,        ,;,\_/ www
+   )_(    ||   \|/ \_/         )_(\|  (_)
+   \|   \ || /\\|/  |/         \| \|// | 
+___\|//jgs||//_\V/_\|//_______\\|//V/\\|/__
+</pre>
+</div>
+
+<h1>{{ macros_translate::translate(key="tags_title", default="Tags", language_strings=language_strings) }}</h1>
+
+<p>
+	<small>{{ macros_translate::translate(key="tags", number=number_of_tags, default="عدد العلامات: $NUMBER", language_strings=language_strings) }}</small>
+</p>
+
+<ul class="tags">
+	{%- for tag in terms -%}
+		<li><a href="{{ get_taxonomy_url(kind='tags', name=tag.name, lang=lang) }}"><span class="tag">{{ tag.name }}</span><span class="count">{{ tag.pages | length }}</span></a></li>
+	{%- endfor -%}
+</ul>
+{% endblock content %}

@@ -1,0 +1,7 @@
+#not-found {
+	display: block;
+
+	img {
+		width: min(calc(var(--container-width) / 5), 100%);
+	}
+}
