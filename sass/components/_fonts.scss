@@ -25,11 +25,13 @@
   src: url('/fonts/baloo-bhaijaan-2-v19-arabic_latin-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-// Geist Mono
+/* ibm-plex-sans-arabic-regular - latin */
 @font-face {
-	font-style: normal;
-	font-weight: 100 900;
-	src: url("fonts/geist-mono.woff2") format("woff2");
-	font-family: "Geist Mono";
-	font-display: swap;
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Kawkab Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/iKawkabMono-Regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+  

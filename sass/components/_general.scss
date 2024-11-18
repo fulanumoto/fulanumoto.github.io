@@ -21,7 +21,7 @@ body {
 	line-height: 1.6;
 	font-family: var(--font-sans-serif), var(--font-system-ui), var(--font-emoji);
 	overflow-wrap: break-word;
-
+	quotes: "«" "»";
 	@media (prefers-reduced-motion) {
 		background: var(--bg-overlay), url("static-static.gif"), var(--accent-color);
 	}
