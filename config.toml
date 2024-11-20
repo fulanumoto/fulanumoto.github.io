@@ -28,7 +28,7 @@ bottom_footnotes = true
 
 
 [extra]
-accent_color = "#D6BB87"
+accent_color = "#588157"
 # accent_color_dark = "#fba7ff"
 fix_contrast_dark = true
 emoji_favicon = "📓"
@@ -59,15 +59,14 @@ links = [
         { url = "@/webrings/index.md", name = "webring" },
         { name = "المزيد", menu = [
 		{ url = "@/nanolog/_index.md", name = "kunisha", new = true },
-		{ url = "/soon/_index.md", name = "Soon_mada" },
 	] },
 ]
 
 
 [extra.footer]
 show_copyright = true
-show_powered_by = false
-copyright = "`نِصف الحقوق محفوظة، 2024 ©`" 
+show_powered_by = true
+copyright = "نِصف الحقوق محفوظة، 2024 ©" 
 links = [
 	{ url = "@/about/index.md", name = "عن الموقع" },
 ]

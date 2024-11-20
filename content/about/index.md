@@ -31,7 +31,7 @@ description = "ما يُتّبع وطُرق التواصل وأمورٌ غيره
 <img class="transparent no-hover pixels drop-shadow icon" src="icons/telegram.gif" alt="Pixel art Telegram icon." />
 <div class="details">
 <strong>التِلِڤرَام</strong>
-<p><small>أهون الشرَّين.</small></p>
+<p><small>أهون الشر.</small></p>
 </div>
 </a>
 
@@ -39,7 +39,7 @@ description = "ما يُتّبع وطُرق التواصل وأمورٌ غيره
 <img class="transparent no-hover pixels drop-shadow icon" src="icons/email.gif" alt="Pixel art Email icon." />
 <div class="details">
 <strong>البريد الرقّمي</strong>
-<p><small>من مازال يُرسل منه غير الشركات؟!</small></p>
+<p><small>كلّ المراسلات عليه مكشوفة.</small></p>
 </div>
 </a>
 
