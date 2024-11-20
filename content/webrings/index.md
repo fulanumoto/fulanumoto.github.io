@@ -132,7 +132,7 @@ title = "حِلَقُ لِين"
 [![Kinisis](banner_img/kinisis.png)](https://kinisis.xyz)
 [![eyetower](banner_img/eyetower.png)](https://eyetower.xyz)
 [![voicedrew](banner_img/voicedrew.png)](https://voicedrew.xyz)
-[![~Ful4[.]](banner_img/ful4n.png)](https://ful4n.bearblog.dev)
+[![~Ful4[.]](banner_img/ful4n.png)](https://fulanumoto.github.io)
 [![DigitalVoid](banner_img/digitalvoid.png)](https://www.digitalvoid.xyz)
 </div>
 </details>

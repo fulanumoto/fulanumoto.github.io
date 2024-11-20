@@ -1,6 +1,6 @@
 +++
 title = "الزَّوْزَوَةُ"
-description = "زوّا عليه الفيل. :"
+description = "زوّا عليه الفيل. :)"
 [taxonomies]
 tags = ["يابانيات"]
 [extra]

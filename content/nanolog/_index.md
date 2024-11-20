@@ -1,6 +1,6 @@
 +++
-title = "كُنيْشة"
-description = "كُناشة صغيرة بأسطر قليلة قصيرة."
+title = "كُنَّيْشة"
+description = "كُنَّاشة صغيرة بأسطر قليلة قصيرة."
 template = "nanolog_list.html"
 page_template = "nanolog.html"
 sort_by = "date"
