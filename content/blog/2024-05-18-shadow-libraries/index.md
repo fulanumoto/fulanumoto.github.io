@@ -33,7 +33,6 @@ banner = "banner.jpg"
 تُوفر مكتبات الظل ما عندها باستخدام «[البِت تُورَينت](https://ar.wikipedia.org/wiki/%D8%A8%D8%AA_%D8%AA%D9%88%D8%B1%D9%86%D8%AA)» وبـ«[نظام الملفات بين الكواكب](https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8)» و«الشّابكة المظلمة» ليسهل نقلها وتوزيعها. فـ«رَبيدة آنَّا» تحفظ نفسها من الزوال بإظهار ترميزها للعامة ليسهل [عكسها وتكريرها](https://ar.wikipedia.org/wiki/%D9%85%D9%88%D9%82%D8%B9_%D9%85%D8%B1%D8%A2%D8%A9) و[شقّ فرع منها وتعديله](https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%B1%D8%B9_%D9%85%D8%B9%D8%AF%D9%84_(%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)).
 
 
-
 [^1]: [سور لا يهدم إلا بالدفع.](https://ar.wikipedia.org/wiki/%D8%AC%D8%AF%D8%A7%D8%B1_%D8%AF%D9%81%D8%B9)
 
 [^2]: [متوسط أسعار النشرات العلمية](https://www.libraryjournal.com/story/going-for-gold-deep-in-the-red/)
