@@ -1,6 +1,8 @@
 +++
 title = "عن الموقع"
 description = "ما يُتّبع وطُرق التواصل وأمورٌ غيرها."
+[extra]
+no_header = true
 +++
 
 {{ image(url="nagato-yuki.webp", alt="ناغاتو تكتب اختراقًا", full=true, no_hover=true) }}
