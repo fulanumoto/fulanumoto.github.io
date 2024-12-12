@@ -18,10 +18,11 @@ body {
 	background-blend-mode: normal, difference;
 	min-height: 100vh;
 	color: var(--fg-color);
-	line-height: 1.6;
+	line-height: 1.5;
 	font-family: var(--font-sans-serif), var(--font-system-ui), var(--font-emoji);
 	overflow-wrap: break-word;
-	quotes: "«" "»";
+        quotes: "«" "»";
+
 	@media (prefers-reduced-motion) {
 		background: var(--bg-overlay), url("static-static.gif"), var(--accent-color);
 	}
@@ -66,11 +67,11 @@ body {
 }
 
 main {
-	margin: 4.25rem auto 4rem;
+	margin: 4rem auto;
 	width: min(var(--container-width), 90%);
 
 	& > *:not(#banner-container, #buttons-container, #fluttershy, #comments main > *),
-	& ~ #site-footer {
+	& + #site-footer {
 		animation: main-load var(--transition-bezier-longer);
 
 		@keyframes main-load {
