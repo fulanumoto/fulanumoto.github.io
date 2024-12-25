@@ -1,6 +1,22 @@
 +++
-title = "حِلَقُ لِين"
+title = "حِلقُ الشّابكة"
 +++
+
+## حِلَقُ الصعاليك
+
+أراضي الصعاليك على الشّابكة. <small> إن أردت أرضك بيننا فارسل شعارك في نادينا على [التِلِڤرَام](https://fulanumoto.github.io/alsaleak/).</small>
+
+<details>
+  <summary>المواقع</summary>
+<div class="media-grid-markdown">
+
+[![qimatr](banner_img/qimatr.png)](https://qimatr.github.io/)
+</div>
+</details>
+
+***
+
+## حِلَقُ لِين
 
 حِلَقُ لِين هي حِلَقٌ لجمع المواقع والمدونات؛ سَنّها أصحاب موقع «[**Lainchan**](https://www.lainchan.org)» <img class="emoji no-hover" alt="Trollface." src="lainbear.jpg" />  وهو موقع للكتابة ونشر الصور دون اسمٍ تُعرف به، `فتُجهل وتجهَل غيرك`.
 
