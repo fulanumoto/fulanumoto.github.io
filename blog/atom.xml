@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ar">
+    <title>فُلان - الكُنَّاشة</title>
+    <subtitle>أرضي على الشّابكة.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://fulanumoto.github.io/blog/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-07T00:00:00+00:00</updated>
+    <id>https://fulanumoto.github.io/blog/atom.xml</id>
+    <entry xml:lang="ar">
+        <title>الحمامة الحمراء - 赤い鳩</title>
+        <published>2024-12-07T00:00:00+00:00</published>
+        <updated>2024-12-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/akai-no-hato/"/>
+        <id>https://fulanumoto.github.io/blog/akai-no-hato/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/akai-no-hato/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;aside&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;akai-no-hato&#x2F;cover.jpg&quot; alt=&quot;ظنك&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;figcaption&gt;غلاف الفصل الثاني.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;&lt;strong&gt;صنفها&lt;&#x2F;strong&gt;: تاريخيّ&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;كتابة&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20150721173351&#x2F;http:&#x2F;&#x2F;www.koikekazuo.jp&#x2F;&quot;&gt;كَزُو كُويْكِ&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;رسم&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;mangaseek.net&#x2F;person&#x2F;138.html&quot;&gt;رِيُويْتشِي إِيكِغَمِي&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;نشر&lt;&#x2F;strong&gt;: &lt;a href=&quot;http:&#x2F;&#x2F;www.shogakukan.co.jp&#x2F;&quot;&gt;دار شُوغَكُ&lt;&#x2F;a&gt;، 1988.&lt;&#x2F;p&gt;
+&lt;&#x2F;aside&gt;
+&lt;p&gt;هي قصة موضوعة عن سعي داعية -بشنب- &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; لإثبات قرابة بين أهل اليابان واليهود وأنهم سبط من أسباطهم &lt;small&gt;(&lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D9%86%D8%B8%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D8%B5%D9%84_%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A_%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83&quot;&gt;وهذه حكاية من الأكاذيب&lt;&#x2F;a&gt;)&lt;&#x2F;small&gt;، ويُرافقها &lt;abbr title=&quot;ساموراي&quot;&gt;محارب ياباني&lt;&#x2F;abbr&gt; من أصحاب أسلوب الدّهْيُ المَنِيَوي &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;، مهتمُّ بأمر معركة تلّ المتسلم &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-3-1&quot;&gt;&lt;a href=&quot;#fn-3&quot;&gt;[3]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; ومستعظمًا لشأنها، فتبدأ مهمتهما ببحثهما عن أذن عجّل السامريّ المُذهّب لإثبات ما يسعيان إليه.&lt;&#x2F;p&gt;
+&lt;div class=&quot;media-grid-markdown&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;akai-no-hato&#x2F;Akai-Hato-Chapter-35-7.jpg&quot; alt=&quot;أسلوب الدّهْيُ المَنِيَويُّ&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;akai-no-hato&#x2F;yfidnix2rd.jpg#spoiler&quot; alt=&quot;قبر يهودي.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;وفي القصة إكراه على نظرية قرابة أهل اليابان واليهود، يحشرها الكاتب في وجهك مُصدقًا بها حتى بانت فيه الماليخوليا &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-4-1&quot;&gt;&lt;a href=&quot;#fn-4&quot;&gt;[4]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;والرسم حيّ جميل، أمّا القصة فغير مفهومة ولا بينة لم تظهر جمال الرسم الذي شُكّل بها. وأكبر ما يعيبها وينقصها غياب عدوّ مرعب قوي. فلم يُصوّر لنا الكاتب تنظيم أصحاب الشمال ولا كبرائهم، وهم أعداء لأبطال القصة؛ فظلّوا يُحاربون صغائر الأعداء في رحلتهم مرّة في كلّ مكان ينزلون فيه، وهذا هو.&lt;&#x2F;p&gt;
+&lt;p&gt;فلم يُفلح العمل إلا في الرسم. وضاعت القصة في غاية لا تُدركها.&lt;&#x2F;p&gt;
+&lt;p&gt;وضاع وقتي فيها، وعلى ما فيها من رسم حسن، لم تُعجبني.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lhkm&quot;&gt;الحكم&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+مملولة&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+ممتعة&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+أوصي بها&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;واسمها حِبورن، على اسم النصراني &lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D8%AC%D9%8A%D9%85%D8%B3_%D9%83%D9%88%D8%B1%D8%AA%D9%8A%D8%B3_%D9%87%D9%8A%D8%A8%D9%88%D8%B1%D9%86&quot;&gt;يعقوبس حِبورن&lt;&#x2F;a&gt;، وهو من قابل الأصوات اليابانية بالأحرف اللاتينية، وكان صاحب فضل كبير في تقوية  العلاقة بين الولايات المتحدة الأمريكية واليابان. ولم يُذكر في الحكاية سبب رسمه على هيئة امرأة بشنب. وينبزونها بالمُشْعِرة. &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;馬庭念流: هو &lt;a href=&quot;https:&#x2F;&#x2F;ja.wikipedia.org&#x2F;wiki&#x2F;%E9%A6%AC%E5%BA%AD%E5%BF%B5%E6%B5%81&quot;&gt;مذهب من مذاهب القتال يابانية&lt;&#x2F;a&gt;. وضعه «هِيغُتْشِي» عام 1591، وسُمّيَ بالمَنِيَويُّ نسبةً لبلده. (&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;DFX0kCbFu6g&quot;&gt;مقطع مرئي)&lt;&#x2F;a&gt;. و&lt;a href=&quot;https:&#x2F;&#x2F;ja.wikipedia.org&#x2F;wiki&#x2F;%E5%BF%B5%E6%B5%81&quot;&gt;أسلوب الدَّهْيُ&lt;&#x2F;a&gt; قائم على إصابة الرأي عند المفاجأة، فعمدة مذهبهم: &lt;q&gt;إن قُطعت يُمناك، فاضرب بشمالك، وإن قُطعت شمالك، عضّ سيفك بالنّواجذ.&lt;&#x2F;q&gt; &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-3&quot;&gt;
+&lt;p&gt;ذُكر هذا التلّ باسم «أرمقدون»، وهو موقع تتجمع فيه الجيوش لمعركة كبرى آخر الزمان؛ أمَا عندنا فهي الملحمة الكبرى. &lt;a href=&quot;#fr-3-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-4&quot;&gt;
+&lt;p&gt;عند الأدباء، فإن السّوداء يشير إلى &lt;q&gt;
+التلذذ بالحزن الخفيف الذي يتولد من تذكر السعادة الماضية أو من تصور الأحلام التي لا يعقبها التحقيق.&lt;&#x2F;q&gt; &lt;a href=&quot;#fr-4-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>الزَّوْزَوَةُ</title>
+        <published>2024-08-03T00:00:00+00:00</published>
+        <updated>2024-08-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/zawazawa/"/>
+        <id>https://fulanumoto.github.io/blog/zawazawa/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/zawazawa/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;button class=&quot;audio&quot; data-audio=&quot;zawa.opus&quot;&gt;الزَّوْزَوَةُ&lt;&#x2F;button&gt;
+: تعبير يكون في أوقات عصيبة غريبة لم تعهدها. وهي &lt;strong&gt;زَوَ&lt;&#x2F;strong&gt; وتتبعها &lt;strong&gt;زَوَ&lt;&#x2F;strong&gt; أخرى. &lt;img class=&quot;emoji no-hover&quot; alt=&quot;zawa&quot; src=&quot;zawa.png&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;وأصلها في أعمال الأستاذ &lt;a href=&quot;https:&#x2F;&#x2F;ja.wikipedia.org&#x2F;wiki&#x2F;%E7%A6%8F%E6%9C%AC%E4%BC%B8%E8%A1%8C&quot;&gt;&lt;strong&gt;النُّبَيْقِي فُقْمَاطُ&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;، وهو صاحب «&lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20070629121624&#x2F;http:&#x2F;&#x2F;www.vap.co.jp&#x2F;akagi&#x2F;&quot;&gt;&lt;strong&gt;アカ ～闇に降り立った天才～&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;» و«&lt;a href=&quot;https:&#x2F;&#x2F;annict.com&#x2F;works&#x2F;588&quot;&gt;&lt;strong&gt;賭博黙示録カイジ&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;» وكثيرًا ما يكتبها ويُعبّر بها في قصصه.&lt;&#x2F;p&gt;
+&lt;p&gt;وتُرسم بلون داكن. وتُكتب أحيانًا بخط شبيه بخط «&lt;a href=&quot;https:&#x2F;&#x2F;fonts.google.com&#x2F;noto&#x2F;specimen&#x2F;Noto+Serif+JP&quot;&gt;&lt;strong&gt;الصباح&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;». ويتبعها ثلاث نقط تفصل بين الأولى والثانية (زَوَ… زَوَ…) وتُلصق أحيانًا (زَوَ زَوَ…)؛ وفي الخط الياباني تكون النقطة أعلى (・).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>مكتبات الظل</title>
+        <published>2024-05-18T00:00:00+00:00</published>
+        <updated>2024-05-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/shadow-libraries/"/>
+        <id>https://fulanumoto.github.io/blog/shadow-libraries/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/shadow-libraries/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;p&gt;مكتبات الظل هي قواعد بيانات على الشّابكة فيها علومٌ قد صُعّب الوصول إليها وأُخفيت.والمنع إمّا بـ«سور المال» &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; أو بالحقوق الرقمية الباطلة. وبها رقميات من برامج ومرئيات إلا أن الكتب فيها أكثر وأغلب.&lt;&#x2F;p&gt;
+&lt;p&gt;فمن مكتبات الظل: &lt;a href=&quot;https:&#x2F;&#x2F;www.annas-archive.org&quot;&gt;رَبيدةُ آنَّا&lt;&#x2F;a&gt;، و&lt;a href=&quot;https:&#x2F;&#x2F;libgen.st&quot;&gt;مكتبة التكّوين&lt;&#x2F;a&gt;، و&lt;a href=&quot;https:&#x2F;&#x2F;sci-hub.se&quot;&gt;مجمع العلوم&lt;&#x2F;a&gt;، و&lt;a href=&quot;https:&#x2F;&#x2F;z-library.sk&#x2F;&quot;&gt;مكتبة الزّاي&lt;&#x2F;a&gt;. وهن أكبر المكتبات بعدد الكتب والأدب المفتوحة أمام الناس.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;slh-w-sbbh&quot;&gt;أصلها وأسبابها&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;غاية مكتبات الظل نشر الأبحاث والدروس وتسهيل توفيرها دون مقابل، ذلك لأن العلماء والأدباء غلّوا نشرتهم حتى بلغت الواحدة أربعون ألف دولارًا &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; .&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;اجتماع أصحاب &lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D9%88%D8%B5%D9%88%D9%84_%D9%85%D9%81%D8%AA%D9%88%D8%AD&quot;&gt;النفاذ الحر&lt;&#x2F;a&gt; لتحرير ما يُدرّس في الأكاديميات وتوفيره مجانًا.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;تأييد جمع كثير من الأكادميين جهود هذه المكتبات وناصروها بشواهد منها في منشوراتهم.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;hukmh&quot;&gt;حُكمها&lt;&#x2F;h2&gt;
+&lt;p&gt;ما يُنشر على مكتبات الظل = دون إذنٍ من صاحبه ولكن بذكره ونسبة العمل له. وهو مُباح في الشرع وغير محظور في الوضع. فينشر الناس ما اشتروه من صاحب العمل على مكتبات الظل، لأن حقّ التصرف فيه بيعًا وإعارة ونسخًا انتقل لهم وليس لمالكه الأوّل أن يُحرّم أيًّا منها.
+ومازال الناشرون يُهددون من شارك كتابًا وعلمًا دون إذن منهم بالتحكيم والسجن والتعويض، ومع هذا فلم يثبت حكم واحد بتجريم من شارك في هذه المكتبات.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;wsy-lh&quot;&gt;وسائلها&lt;&#x2F;h2&gt;
+&lt;p&gt;تُوفر مكتبات الظل ما عندها باستخدام «&lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D8%A8%D8%AA_%D8%AA%D9%88%D8%B1%D9%86%D8%AA&quot;&gt;البِت تُورَينت&lt;&#x2F;a&gt;» وبـ«&lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8&quot;&gt;نظام الملفات بين الكواكب&lt;&#x2F;a&gt;» و«الشّابكة المظلمة» ليسهل نقلها وتوزيعها. فـ«رَبيدة آنَّا» تحفظ نفسها من الزوال بإظهار ترميزها للعامة ليسهل &lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D9%85%D9%88%D9%82%D8%B9_%D9%85%D8%B1%D8%A2%D8%A9&quot;&gt;عكسها وتكريرها&lt;&#x2F;a&gt; و&lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D8%AA%D9%81%D8%B1%D8%B9_%D9%85%D8%B9%D8%AF%D9%84_(%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)&quot;&gt;شقّ فرع منها وتعديله&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D8%AC%D8%AF%D8%A7%D8%B1_%D8%AF%D9%81%D8%B9&quot;&gt;سور لا يهدم إلا بالدفع.&lt;&#x2F;a&gt; &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.libraryjournal.com&#x2F;story&#x2F;going-for-gold-deep-in-the-red&#x2F;&quot;&gt;متوسط أسعار النشرات العلمية&lt;&#x2F;a&gt; &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>الكَنِيفُ</title>
+        <published>2024-04-15T00:00:00+00:00</published>
+        <updated>2024-04-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/kanifu/"/>
+        <id>https://fulanumoto.github.io/blog/kanifu/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/kanifu/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;figure&gt;
+&lt;img src=&quot;kaiji-mir.jpg&quot; alt=&quot;مرآة كَيْجِي&quot; width=&quot;286&quot; height=&quot;415&quot;&gt;
+&lt;figcaption&gt;العاكس على المرآة: «انظر لسرّ الشيء لا وجوده»&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;div&gt;كثيرًا ما يدخل &amp;laquo;كَيْجِي&amp;raquo; للكنيف أثناء أشواطه &lt;span style=&quot;color: #de3421;&quot;&gt;فيزيد ثباته وشدّته فيه ويكون أدوم في حربه على عدوه وأقرب إلى الغلب&lt;&#x2F;span&gt;.&lt;&#x2F;div&gt;فبه أصاب المكيدة ورأي الحرب لهزيمة «هِيُودُو» لما داس -صُدفةً- على صندوق المناديل. فالاختلاء سبب من أسباب تهوين معاناة القلوب وانبساط النفوس والتفكير في الرأي الحسن.
+&lt;p&gt;والكنيف دار ساترة لك عن أعين الأعداء، لتُدبر أمرك وتتحايل فيه. وهذا فعل «كَيْجِي»، فأقام المكائد مع رفاقه وغش في أشواطه وقطع أذنه فيه فلم يدري أعداءه ما يصنع لاستخفاءه به.&lt;&#x2F;p&gt;
+&lt;p&gt;وللكنف مرايا، وأراها أثرت في «كَيْجِي» الأثر البين. فقد أقامت معلّمة من جامعة «تافتس» تجربة ضمّت 34 طالبًا. وزّعتهم في  غرفتين -إحداها دون مرآة- واستأذنت مغادرةً الطلبة فيهما لتعرف أيُّهما يحبس أكثر.
+فأقام من في غرفة المرآة 17 دقيقة قبل خروجهم، وأقام من بدونها 22 دقيقة.
+فتحقق بالمرآة رشدهم ووعوا أنفسهم وظنّوا سخف انتظارهم فخرجوا وسارعوا لمناداة المعلّمة. فبالمرآة يكون حكمك واضحًا لا وهم ولا ضعف فيه، ذلك لأنها تغلب النرجسية وتُمسكها.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #217dd0;&quot;&gt;فالكنيف مفيد لحامي الطبع وبمرآة أنجع ليُدرك نفسه ويظفر بالفوز. وبالاختلاء تتجدّد بعد إخْلاقِك، &lt;a href=&quot;https:&#x2F;&#x2F;dorar.net&#x2F;h&#x2F;quZeiktB&quot; target=&quot;_blank&quot;&gt;والوضوء يُذهب غضبك&lt;&#x2F;a&gt; كما يُبرّد الماء النار.&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>برامجي</title>
+        <published>2024-03-15T00:00:00+00:00</published>
+        <updated>2024-03-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/baramiji/"/>
+        <id>https://fulanumoto.github.io/blog/baramiji/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/baramiji/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;للشَّابكة&lt;&#x2F;p&gt;&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;لغير الشَّابكة&lt;&#x2F;p&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;🌐 &lt;strong&gt;المتصفح:&lt;&#x2F;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;librewolf.net&#x2F;&quot;&gt;الذئب الحر&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 🔐 &lt;strong&gt;حافظة كلمات المرور:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;keepass.info&#x2F;&quot;&gt;المفتاح&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 📺 &lt;strong&gt;المرئيات:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;git.dec05eba.com&#x2F;QuickMedia&quot;&gt;الوسيط السريع&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 🎛 &lt;strong&gt;مُشغّل البرامج:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;tools.suckless.org&#x2F;dmenu&#x2F;&quot;&gt;الحيّالة&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 📮 &lt;strong&gt;البريد الرقمي:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;www.thunderbird.net&quot;&gt;الطائر المِرْعَاد&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 📺 &lt;strong&gt;مُشغل المرئيات:&lt;&#x2F;strong&gt; الخادوم: &lt;a href=&quot;https:&#x2F;&#x2F;jellyfin.org&#x2F;&quot;&gt;لوامس القنديل&lt;&#x2F;a&gt; العميل: &lt;a href=&quot;https:&#x2F;&#x2F;mpv.io&#x2F;&quot;&gt;mpv&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 🔖 &lt;strong&gt;ملخصات المواقع:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;martinrotter&#x2F;rssguard&quot;&gt;حافظ الملخصات&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 🖌 &lt;strong&gt;مُعدل الصور:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;www.gimp.org&#x2F;&quot;&gt;برنامج قنو لمعالجة الصور&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt; 📥 &lt;strong&gt;التنزيلات:&lt;&#x2F;strong&gt; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;yt-dlp&#x2F;yt-dlp&quot;&gt;yt-dlp&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;hakuneko.download&#x2F;&quot;&gt;hakuneko&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;baramiji&#x2F;www.qbittorrent.org&quot;&gt;qbittorrent&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;small&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;وعلى فكرة، نظامي &lt;a href=&quot;https:&#x2F;&#x2F;archlinux.org&quot; target=&quot;_blank&quot;&gt;القوس&lt;&#x2F;a&gt;&lt;img class=&quot;emoji no-hover&quot; alt=&quot;arch btw&quot; src=&quot;arch.png&quot; &#x2F;&gt;&lt;&#x2F;p&gt; 
+ &lt;&#x2F;small&gt;</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>دوِّن</title>
+        <published>2024-03-01T00:00:00+00:00</published>
+        <updated>2024-03-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/dawwen/"/>
+        <id>https://fulanumoto.github.io/blog/dawwen/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/dawwen/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;p&gt;رحم الله أيامًا كانت المدونات فيها آلاتٍ لخط الخواطر والأفكار في صُحفها والوصل بين أصحابها. فلا خوارزميات تُغرقك في عفنها ولا أثرياءً يُملون عليك ما تكتب وما تصنع وما ترى في شابكتهم. فلو بقينا في حِلَقِنا&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; ومتندياتنا لكان خيرًا لنا.&lt;&#x2F;p&gt;
+&lt;p&gt;فتُصمم مدونتك كيفما أردت وتُظهرها بالمظهر الذي أحببت؛ وتُشمّر عن ساعديك لتُعدل ترميزها بما ناسبك. فلا تُلقي بالًا لمن لم يعجبه كتابك، فلا حقوقًا لك عليهم تُؤدّيها، ولا لهم عليك. وإن عَضّوك بأنياب لوحاتهم، سددت عليهم بابك ومنعتهم = حظرتهم (هذا إن لقو مكانًا للتعاليق أصلًا).&lt;&#x2F;p&gt;
+&lt;p&gt;فلا مواضيع متكررة قليلة الفائدة، ولا حروب وسوم ولا إعلانات وأحدوثات&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; تافهة
+ولا ما يقتفي أثرك على الشّابكة فتُعرف، ولا «مؤثر» أحمق قليل العلم يتكلم الكلام الرديء. ولوسائل التواصل حسناتها إلا أن قبيحها أكثر ومحاقرها أكبر، فهي مفسدة للنفس وتطبع فيك الجهل.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;lmnst-sqt&quot;&gt;المنصات ساقطة&lt;&#x2F;h3&gt;
+&lt;p&gt;كلٌّ على الشّابكة زائل وساقط.&lt;&#x2F;p&gt;
+&lt;p&gt;أوَتذكر (&lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D9%85%D8%A7%D9%8A_%D8%B3%D8%A8%D9%8A%D8%B3&quot;&gt;مساحتي&lt;&#x2F;a&gt;)؟ و أوّل أيام (المغرّد)، وكيف كان (الواجوه)&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-3-1&quot;&gt;&lt;a href=&quot;#fn-3&quot;&gt;[3]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; قبل دخول العجائز والشيوخ له ونشرهم لصباحياتهم عليه؟&lt;&#x2F;p&gt;
+&lt;p&gt;لابدّ من الموت على المنصّات، وإن سلمت! تغيّرت فلا تكاد تُعرف. فصار المستخدمون اليوم في يد الخوارزميات يُشكلون أفكارهم كيفما شاء أصحابها، ويحجبون عليهم بقياس باطل، والطامة أن المسلمين على منصّاتهم يعودون ويجرون وراءهم حتى بعد حظرهم بسبب كتابهم عن اليهود الصهاينة.&lt;&#x2F;p&gt;
+&lt;p&gt;فدوّن في كرّاستك وكن حرًّا!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;qss-wl-tstmthl-mhrkt-lbhth&quot;&gt;اقصص ولا &lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D9%85%D8%AD%D8%B1%D9%83%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D8%AD%D8%AB&quot;&gt;تستمثل محركات البحث&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;مُلئت صفحات الشّابكة بترهات الأخبار والأحاديث، وفيها من الأغلاط والأوهام الكثير، والتقليد عريق في الآدميين وسليل؛ فمنظرها قبيح وتصميمها سيئ يُفسد العين. ولتصديق مقالي اكتب سؤلا بسيطًا سهلًا في محرك (گوگل) وانظر في آلاف الأسطر الفارغة بحثًا عن جوابٍ يُرضيك -ولن تجد-، فتُضيّع عليك وقتك وهي تحشر في حاسوبك مُقتفيات الأثر وتُلَمْلمُ &lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D9%85%D9%84%D9%81_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7&quot;&gt;حتحاتك&lt;&#x2F;a&gt; وتقذف بالمنبثقات من النوافذ في وجهك.&lt;&#x2F;p&gt;
+&lt;p&gt;والناس تُحب من يرفق بها ويقضي مصالحها فتركوا عناء بحثهم في المحركات وطلبوا الذكاء الاصطناعي. ولهذا ثمنه؛ فبه ستُذهب الكتابات التعليمية في الشّابكة ومعها المنطق والتفرّد.&lt;&#x2F;p&gt;
+&lt;p&gt;وبسواد مستقبلها -أي الشّابكة- فالرواية والقصص ستكون من نفيسها، فميّز الأخبار واستنبط الآثار، وضمّ كل جوهر لشكله، وألّف كل نادر إلى مثله. ولا يكون هذا إلا في مدونتك بعيدًا عن منصّات الرقص والخلاف، وسيلقاك أهل المعرفة والتمييز.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;jm-t-l-tb&quot;&gt;جماعات لا أتباع&lt;&#x2F;h3&gt;
+&lt;p&gt;غاية وسائل التواصل تثبيتك على تطبيقاتها لتُخالطك بما أرادت خوارزمياتها، فتستحوذ على نفسك وتستولي عليها فتشغفها، وهذا يُذهن عقلك ويدمنها، ومدمنها كمدمن المقامرة. وذلك لأنك تصطاد الإعجابات والمتابعين بالتدافع والخلاف نكراءً وجهلًا، فتتحفز أعصابك في دماغك سعادةً، وتظل تجري وراء شعورك هذا مرارًا. فلا تواصلًا طيبًا يكون فيها.&lt;&#x2F;p&gt;
+&lt;p&gt;ولا متابعين ولا أتباع في تدوين المدونات، بل جماعات وجمهرة، وأهلها أهل مودة وصِدق نية بلا تزيُّد ولا إعياء. وإن جرت بينهم الأحاديث، فبالبريد أو التعاليق القصيرة والمفيدة.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;t-ryf-lmdwnt&quot;&gt;تعريف المدونات&lt;&#x2F;h3&gt;
+&lt;p&gt;تكتب فيها ما أردت أن تكتب من رأي وخبرة وما تهتم بتفصيله وتقسّم فيها ما أحببت من فنون وصناعات، وتقف على الأحداث والأخبار ردًّا وقبولًا. وهذا أقرب ما يكون في قنوات التلگرام ولا تراه في غيرها من المنصّات. فاملك مدونتك وفصّلها كيفما شئت واقصص.&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;note&quot;&gt;
+	&lt;p class=&quot;alert-title&quot;&gt;
+		&lt;i class=&quot;icon&quot;&gt;&lt;&#x2F;i&gt;ملاحظة&lt;&#x2F;p&gt;
+	&lt;p&gt;منقول بتصرف من &lt;a href=&quot;https:&#x2F;&#x2F;petercammeraat.net&#x2F;&quot;&gt;بطرس&lt;&#x2F;a&gt; و&lt;a href=&quot;https:&#x2F;&#x2F;mikegrindle.com&#x2F;&quot;&gt;ميكائيل&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;Webring: هي مواقع مجموعة ومربوطة ببعضها مُرتّبةٌ على نفس الوجه والصفات، وغالبها تعليمي واجتماعي. &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;Trend: بمعنى الخبر الشائع المنتشر الذي يتحدث به الناس جميعًا، وما يثير الانتباه. &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-3&quot;&gt;
+&lt;p&gt;تعريب من تعريبات (Facebook) &lt;a href=&quot;https:&#x2F;&#x2F;www.m-a-arabia.com&#x2F;vb&#x2F;showthread.php?t=4170&quot;&gt;من مجمع اللغة العربية&lt;&#x2F;a&gt; (&lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20140301165803&#x2F;https:&#x2F;&#x2F;www.m-a-arabia.com&#x2F;vb&#x2F;showthread.php?t=4170&quot;&gt;&lt;strong&gt;الأربيد&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;) &lt;a href=&quot;#fr-3-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>ما يُردّ به العقل: للتيقّظ وقلة الغفلة</title>
+        <published>2024-02-01T00:00:00+00:00</published>
+        <updated>2024-02-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/dumb-phone/"/>
+        <id>https://fulanumoto.github.io/blog/dumb-phone/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/dumb-phone/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;p&gt;غيّرت «آبل» العالم لما خرّجت جهاز «الآيفون» عام 2007، وأظهرت تقنياتٍ جديدة لم تكن معهودة من قبل. ولصاحبه «سطيف» قول معروف يوم عرضه: الآيفون = حياتك في جيبك.&lt;&#x2F;p&gt;
+&lt;p&gt;فأحب الناس الجهاز حبًّا جمًّا، وصار من مفاخرهم. وقد حقّ قول «سطيف» فانتشرت الأجهزة الذكية حتى صارت في كلّ جيب ويد، وعشنا بها وصببنا حياتنا فيها واليوم نحصد سوء عاقبتها.&lt;&#x2F;p&gt;
+&lt;p&gt;فلا صرنا نحتمل قراءة الكتب ولا الترويح مع أولادنا وانشغلنا بالإشعارات وأصواتها وأدمنّا تصفح المنشورات الفارغة.
+عادة&lt;&#x2F;p&gt;
+&lt;p&gt;تفتح هاتفك قبل نومك وبعد نهوضك وفي مشيك وحتى أثناء حديثك مع الناس أمامك فتهرب من واقعك في ضجرك وحزنك وسخطك. وهذا يؤذيك بشيئين.&lt;&#x2F;p&gt;
+&lt;p&gt;أولهما، فتح هاتفك في يومك يقطعه مقاطيع. وظنك في استخدامه لبضع ساعات في اليوم يقطعه مقطعين فقط ظنّ باطل.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;dumb-phone&#x2F;ur-think.png&quot; alt=&quot;ظنك&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt; هذا ظنك&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;---&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;dumb-phone&#x2F;really.png&quot; alt=&quot;فتحك&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;هذا فتحك&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;ثانيهما، تُشغل عقلك بما لا ينفع، فترى الرسائل تتوالى، والمنشورات وإعجاباتها، وأخبار تغمّ القلب بمرئياتها، ويتراكم هذا كلّه في عقلك فتفقد تركيزك وتفكيرك فيمَا يُهمك ويُفسد عليك حتى نومك.
+فاسترجع مِنْ بدنك مِنَ سآمة ما قد ولَّى عليك من هاتفك، فبادر بما تُرد به نفسك وعقلك فإنّك مُبَادر بك، وجِدّ فإن الأمر جِدٌّ، وتيقظ من رقدتك.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;nuzmun-ltshyh-dhhnk&quot;&gt;نُظمٌ لتصحيح ذهنك&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;fhm-mknk&quot;&gt;افهم مكانك&lt;&#x2F;h3&gt;
+&lt;p&gt;تجذّرت الهواتف الذكية في يومنا، فانظر في «&lt;a href=&quot;https:&#x2F;&#x2F;support.apple.com&#x2F;ar-sa&#x2F;108806&quot;&gt;&lt;strong&gt;مدة استخدام الجهاز&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;» إن كان جهازك «آيفونًا»، وفي «&lt;a href=&quot;https:&#x2F;&#x2F;support.google.com&#x2F;android&#x2F;answer&#x2F;9346420?hl=ar&quot;&gt;&lt;strong&gt;الرَفَاهيَة الرقمية&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;» إن كان بنظام «آندرويد»؛ فسترى ما يفاجئك.
+ولا علم لي بمصدر صحيح دقيق يُثبت المعدل اليومي لاستخدام الهاتف، إلا أن المتكرر في البحوث قرابة الثلاث ساعات كل يوم.
+وهذه الساعات اليومية تُساوي شهرًا في السنة وأنت تحملق في شاشة هاتفك. وإن زادت أربعًا! فكأنها شهرين في السنة. وهذه عادة لا تقدر على تتداركها إلا بضدها، ولتنتقل منها حسبك الآتي:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;zl-glb-lbrmj&quot;&gt;أزل أغلب البرامج&lt;&#x2F;h3&gt;
+&lt;p&gt;ما الهاتف إلا أداة فيها ما يُذهل  ذهنك ويُدمنه؛ فأزل ما لا يُفيدك في عملك من البرامج ولا يؤخرك. ولا ينفعك  حدّ ساعاتك وتقييدها على الهاتف، فأزلها من أصلها خيرٌ لك حتى لا تكون  حليمة أمثالنا.&lt;&#x2F;p&gt;
+&lt;p&gt;في خروجك دع هاتفك في دارك ولا تحمله معك. لا تخف! جربها يومًا حتى لربع ساعة، واجعلها عادةً فيك وزد فيها كل خرجةٍ.&lt;&#x2F;p&gt;
+&lt;p&gt;كن في هذا لأسبوعين أو ثلاثة، ثم قارن أرقامك الأولى بالجديدة في ««مدة استخدام الجهاز» أو «الرَفَاهيَة الرقمية».
+وإن ارتحت بها وارتضيتها لك حالًا فاقفز لما بعدها.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;stkhdm-htfan-qdyman&quot;&gt;استخدم هاتفًا قديمًا&lt;&#x2F;h3&gt;
+&lt;aside&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;النوع الذي اشتريته&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;dumb-phone&#x2F;p01gd.jpg&quot; alt=&quot;صورة لنوع هاتفي&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;aside&gt; 
+&lt;p&gt;يُسميه الناس بـ«الهاتف الغبي» وأنا عندي «اليسير». وهو أفضل من ابن عمه «الذكي»، -وإن كان ذكيَّا- إلا أن  خوارزمياته لا همّ لها بك، المهم عنده أن تقضي أكثر وقتك عليه فيسحب منك  طاقة ذهنك ووقتك في تفاهاتٍ ليُريك إعلاناتٍ يأخذ مالها صاحبه.&lt;&#x2F;p&gt;
+&lt;p&gt;وأما «اليسير» فيه مهم المهم، فبه  تقدر على الاتصال وإرسال الرسائل وقد يكون فيه ما يزيد على هذا، كحاسبة  وعدسة ضعيفة للتصوير، كهواتف «نوكيا» القديمة.&lt;&#x2F;p&gt;
+&lt;p&gt;وقد أخترت من «&lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.docomo.ne.jp&#x2F;&quot;&gt;أينما كنت&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;» جهازًا ليكون هاتفًا لي، وفيه من الميزات ما يفوق أجهزة نوكيا (&lt;span class=&quot;spoiler&quot;&gt;وبعضها لا  يشتغل إلا في بلده أصلا&lt;&#x2F;span&gt;) إلا أن لي أسبابي في اختياري، فلا أنصحك به. فإن  لقيت هاتفًا به ميزات تصلح لك كالخرائط، فنوكيا عندها أجهزة بهذه الميزات  وبعيدة عن خوارزميات «الذكي».&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;jid-bdl-lm-fqdt&quot;&gt;جِد أبدال لما فقدت&lt;&#x2F;h3&gt;
+&lt;p&gt;لا تحن لهاتفك الذكي إن أردت شيئًا  لم تلقه في هاتفك اليسير، جِد أداة أو طريقًا آخر يُغنيك عن الرجوع إليه،  ولا تدع الشيطان يُزين لك سهولة وصولك لحاجتك قبل انتقالك هذا. وصحيح،  فـ«اليسير» مغيّر لمعايش الناس؛ فإن أردت الدفع به في الدكاكين لن تقدر،  ولن تندري بالمناسبة القادمة قبل حصولها، ولكن لكل هذه حل. فلا تيأس وتذكر  كيف كنّا.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;m-yuktsb-blntql-l-lysyr&quot;&gt;ما يُكتسب بالانتقال إلى «اليسير»&lt;&#x2F;h3&gt;
+&lt;p&gt;سيزداد تركيزك. وستحترم مُحادثك خلال كلامه بالاستماع له، كما أن ساعةً تُضاف في يومك تقرأ فيها ما يُفيد دنياك وآخرتك.
+ستكون منغمسًا في عملك متواصلًا دون انقطاع، فتقضي وتنجز ما تريد.
+يصفى عقلك وتحل السكينة عليك بإذن الله.
+عندك ساعتين أو أكثر كل يوم تفعل فيها ما تحب!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lhsl&quot;&gt;الحاصل&lt;&#x2F;h2&gt;
+&lt;p&gt;كل ما يُذهلك عن نفسك، وعن زمنك وحاضرك، وعن عملك لغدك؛ عدوُّك.
+يسرقُ العمر منك، يتخطَّفهُ لحظة  تلو اللحظة، يوما بعد اليوم، أسبوعا بعد الأسبوع. وهذا هاتفك، يحبسُكَ في  دوائر مفرغة! شيطان لعينٌ! هو أعدى أعدائك.&lt;&#x2F;p&gt;
+&lt;p&gt;فلا تصادقه!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="ar">
+        <title>فساد المدارس</title>
+        <published>2024-01-27T00:00:00+00:00</published>
+        <updated>2024-01-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              فُلان الفُلاني
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://fulanumoto.github.io/blog/fasad-almadares/"/>
+        <id>https://fulanumoto.github.io/blog/fasad-almadares/</id>
+        
+        <content type="html" xml:base="https://fulanumoto.github.io/blog/fasad-almadares/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;q&gt;رسالتنا توفير تعليم ذي جودة وبيئة وثقافة تعليمية محفزة لكل الفئات وبجميع مراحله ومساراته يدعمه خطة لتطوير ورفع كفاءة الكادر التعليمي  عموماً والمعلمين  خصوصاً وتنفيذ برامج تعليمية داعمة ومشجعة لكل من  الأطفال والشباب بما فيهم الفئات الخاصة ليساهموا في تقدم ليبيا في ظل  “الاقتصاد المعرفي العالمي  رؤيتنا هي توفير فرص تعليمية متكافئة وعالية  الجودة لجميع أفراد المجتمع  ليكونوا قادرين بكل كفاءة للمساهمة في التنمية المستدامة والمشاركة الفعالة في الاقتصاد الوطني . قيمنا التحلي بالأخلاق  والتميز والإبداع والانفتاح  والتعلم والإتقان وتبادل الخبرات والبحث  العلمي . من أجلكم وضعت كل  الإمكانيات وعليكم تعقد الآمال وبكم سيكون  وطننا غدا أجمل وأقوى فكونوا كما عاهدناكم عنوانا للجد والاجتهاد .&lt;&#x2F;p&gt;
+&lt;p&gt;من أوّل سطر تفهم بُعدَ كلامهم عمّا نحن فيه في مدارسنا وتعليمنا؛ &lt;q&gt; توفير  تعليم ذي جودة وبيئة وثقافة تعليمية محفزة&lt;&#x2F;q&gt; فأين بيئتهم هذه وجودتها، ولا  أراها تكون بخشبة يُجلس عليها لست ساعات في اليوم لدروس لا يبالي بها  الجالس -الطالب- ولا القائم -مُعلّمها-. أمّا  قولهم &lt;q&gt;يدعمه خطة لتطوير ورفع كفاءة الكادر التعليمي عموماً والمعلمين  خصوصاً  وتنفيذ برامج تعليمية داعمة ومشجعة لكل من الأطفال والشباب بما  فيهم الفئات الخاصة ليساهموا في تقدم ليبيا في ظل “الاقتصاد المعرفي  العالمي&lt;&#x2F;q&gt; وهذه إن صحّت تسميتها «بخطة» فهي مختلّة وكادرهم خائب مقصّر، وفاقد الشيء لا  يُعطيه. ولا أفهم معنى ظلّهم المذكور، فلو كان مقصدهم  الوظيفة، فأكثرها لا  تطلب الشهادة، والناس تكون فيها إما جزّارين وطبّاخين وبنّائيين وغيرها من  الأعمال. وهذا لحاجة الناس لها فهي -أي المدرسة-  تحشر فيك عدّة فنون وعلوم  أغلبها لا تُطيقها وتعارض ما أنت تريده ولا أصلا أُستاذها يُحسنها وغير متبحر فيها، فتقفز بين البساتين ولا تخرج معك بزهرة واحدة، وإن أردت علمًا  أو فنَّا تَعَلَّمتَه خارج أسوارها. فلا منفعة في  حفظ نسب إنتاج البلدان من قمح وقطن ولا قصص الإنسان القديم الكاذبة ولا  التأريخ الزائف المليء  بالإستقلالات الخاوية والإنجازات المُزورة، لتأخذ  شهادة آخر عامك تُثبت علمك الفارغ لتكون في وظيفة لا تأبه بها تجمع منها  قوت يومك وهذا بيان  قولهم في: &lt;q&gt; ليكونوا قادرين بكل كفاءة للمساهمة في التنمية المستدامة  والمشاركة الفعالة في الاقتصاد الوطني &lt;&#x2F;q&gt;. فلا تعلّمك المدارس إلا الصبر على  آذاها؛ فلا خير فيها ولا في &lt;q&gt;علمها.&lt;&#x2F;q&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;l-nf-llmdrs&quot;&gt;لا نفع للمدارس&lt;&#x2F;h2&gt;
+&lt;p&gt;وهذا واضح ومقسّم في التالي&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;مادة اللغة العربية:&lt;&#x2F;strong&gt; تتعلمها بمخالطتك من حولك سمعًا  وحديثًا، وكتابة وقراءة  إما في حلقة مسجد أو بعون والديك. فلا حاجة للنحو  وفهم تراكيب شعر كُتب من  آلاف السنين لا ينقص منك جهلك بهم&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;اللغة الإنكليزية:&lt;&#x2F;strong&gt; لا تعلمك  المدارس اللغة الإنكليزية التي يتحدثون بها أهلها وكيف يكتبون بها،  فتُدرَّس كلغة جامدة بتعابير  سمجة لا روح فيها، وأغلب الأمر أن أُستاذها لا يفقه اللغة نفسها فيُحفّظك  ما أمامه وتُردد خلفه ثم تكتب إجاباتك تحت  اسئلته وانتهى. فلو أردت لولدك  تعلمها، أعطه لعبة يتفاعل معها أو اجعله في  حلقة يتحدثون فيها الإنكليزية  ففي شهر سيتعلم ما لا يتعمله في سنة في  المدرسة&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;مادة الأحياء:&lt;&#x2F;strong&gt; لا حاجة لها في يومنا، وإن أهمها الصحة ولا  أذكر موضوعًا درسناه عنها. فماذا يفعل الفتى بتصانيف الحيوانات السامة  وأنواع الغابات؟&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;حصة الرياضة:&lt;&#x2F;strong&gt; دع الفتى وستراه فوق النخل والشجر&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;مادة الرياضيات:&lt;&#x2F;strong&gt; يحتاج المرء في حياته الأساسيات منها فحسب، كالجمع والطرح و الضرب والتقسيم؛ وما عاداه زائد&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;مادة الكيمياء:&lt;&#x2F;strong&gt; كم معادلةً كيميائيةً حللتها خارج أسوار المدرسة؟&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;مادة الفيزياء:&lt;&#x2F;strong&gt; لِمَ تضف أرقامًا وحسابات لحركاتك ورمياتك! فلا شرحًا يلزم لفعل ما تريد&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;مادة الحاسوب:&lt;&#x2F;strong&gt; منهج قديم عفى عنه الزمن. وأطفال اليوم  يُولدون وهاتف في أيديهم  وحاسوب في دارهم، فينخرطون في أمر الحاسوب وما  فيه قبل دخولهم المدرسة. ولو تبدّل المنهج في تعليمهم صُنع المواقع وإصلاح  الأعطال في الأجهزة لكان  أحسن وأفيد لهم من معرفة مكان قائمة «ابدأ»&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;مادة صورة الأرض «  الجغرافيا»:&lt;&#x2F;strong&gt; يُعلّمونك الخرائط  والاتجاهات وكأن إبحارك في الشهر القادم،  وما أنت بفاعل. فلا يربطون بين  ما يحتاجه الفتى في يومه وما يأخذه في  مدرسته. وعلم الأرض والبلدان وما  فيها من خيرات وأماكن، فيه متعة وترويح  إلا أنه لا يكون ضروريًّا&lt;&#x2F;p&gt;
+&lt;p&gt;وفيها غير هذه المواد الكثير، تكتب ما  يُقال لك ولا تعمل به كحمله  أسفاره. فلا علاقة بين ما يُملى عليك وما مطلوب منك؛ فتتعلم بنفسك ما تراه  يُناسب طبعك وما هو مهم عندك، وتطرح ما كتبت في مزبلة.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lmdrs-tqt-zmnk-bm-l-fy-d-fyh&quot;&gt;المدارس تقطع زمانك بما لا فائدة فيه&lt;&#x2F;h2&gt;
+&lt;p&gt;تكون المرحلة  الابتدائية والإعدادية في تسع سنين، بست ساعات في اليوم لخمسة  أيام، وزد  عليها واجباتك بدارك واستعداداتك لاختباراتك، وهذا كله يذهب من  أعوام  تقويمك وتصويرك. فيُشغلونك في سخفهم ويُطعمونك من قلة عقلهم ويقطعون  زمانك بما لا فائدة فيه لا لك ولا لغيرك. وإن قلنا أن علمك الذي علمت عُشره من  المدرسة، فبقدر هذا نُنقص وقتها في كامل الأسبوع، لتكون في أربع ساعات،  وثلاثًا أخرى في دارك؛ فتحصد مفيدها في أقل وقت مما كانت ولا يضيع عمرك   فيها.&lt;&#x2F;p&gt;
+&lt;p&gt;لكنّ خواص الدولة يريدونك خادمًا حمارًا مستعبدًا عندهم  ناسيًا حريتك  التي ولدتك بها أمك. ولا يصير هذا إلا بالساعات الطوال في  المدارس وتكرار  ما كتبوه ونسيانها عامًا بعد عام. وقد قال رجل للإمام  الشافعي : أوصني،  فقال: (إن الله تعالى خلقك حُرًا، فكُنْ حُرًا كما خلقك).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;stns-klw-m-t-lwmth-fyh&quot;&gt;ستنسى كلّ ما «تعلّمته» فيها&lt;&#x2F;h2&gt;
+&lt;p&gt;وذلك لثلاث: أنّها علم لا ينفع كما ذكرنا، وأن لا عناية لك في موادها، و آخرها دكّ دروس كثيرة في «المُقرّر»&lt;&#x2F;p&gt;
+&lt;p&gt;ويبقى ما علمت في عقلك بجعله في عملك، ولا يقوى فهمك إن تركت العمل به،  فيضيع ما أخذت. ويقول ابن بطال: «قال ربيعة: لا ينبغى لأحد عنده شيء من  العلم أن  يضيع نفسه. ومعنى قول ربيعة، أن من كان له قَبُول للعلم وفهم له، فقد لزمه  من فرض طلب العلم ما لا يلزم غيره، فينبغي له أن يجتهد فيه، ولا يضيع طلبه  فيضيع نفسه». ولأن ما أخذت من المدارس يبقى في كتبها ولا تكون في يومك،  فينساها عقلك ما أن تنهي اختباراتك. وذلك لأنهم يعلّمونك بأضجر الطُرق  وأسمج المناهج&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;t-rwd-lmdrs-l-lm-wlt-lwm&quot;&gt;تعرّض المدارس العلم والتعلّم&lt;&#x2F;h2&gt;
+&lt;p&gt;يُلقنُنَك بكتابة ما يُقرّر عليك وتجيب اسئلة في اختبار لتنساه فيما بعد. وتكون في  هذا الحال لعشرة  أعوام أو أكثر فترضاه حالًا لك. وإن رضيت وأيقنت أن هذا  طريق العلم فلن  تهتدي لطريق غيره. وإن عافاك الله طحنهم ومازالت آخذًا  بالفضول كالصغار  فستتعلم ما يشغفك وتفلح فيه. ومستحيل أن تتعلم في أعوام  المدرسة لضيق  اليوم، فتعود لدارك بعد الظهر، ثم تتغذى وتقيل قليلًا لتحلّ  واجباتك  بعدها، وعقلك محروق أصلًا بما عُذّبت به في المدرسة فلا تريد نفسك  حينها  إلا الترويح عنها، فإن لها حقًا. فطبيعة النفس تأبى عذاب المدارس،  وحتى  الشرع لا يخاطِب الناس بهذا، بل يقر النقص البشري والطبيعة التي فُطر   الناس عليها، فإنما هي ساعة وساعة، ولكل شرة فترة. فلو ذُهب بالمدارس ورُدّ التعلّم لما كان عليه بالسؤال والتجارب والاستكشاف بما تُحب فيما تُحب حتى النجاح، لكان حالنَا أحسن حال. وقد قال أحمد أمين في[فيض الخاطر] ما نصه: «ويظهر أن النفوس إذا نضجت تلمست  الوسائل المختلفة لبروزها، وظهور عظمتها، والصوفية يقولون: صاحب الخصوصية  لا بد أن يظهر يوماً ما؛ ولكن كم في العالم من شخصيات كامنة لو هيئ لها  عود الثقاب لاشتعلت، ولو أتيح لها القبس لأنارت، وكم من بذرة صالحة قوية لم  تجد تربتها اللائقة بها، فغلبتها على الحياة بذرة فاسدة، وكم من زهرة  بدأت  تتفتح فأصابتها ريح هوجاء عصفت بها - وعمل المصلحين والشخصيات القوية في كل أمة أن يستكشفوا هذه الكوامن فيقدموا لها الغذاء ويتعهدوها بالنماء»&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;qys-mdrwb&quot;&gt;قياس مضروب&lt;&#x2F;h2&gt;
+&lt;p&gt;والقياس يكون في امتحان ما أعطوك في كل موادك. ويُعلن بعضها قبل وقتها لتُعدّ له،  وأخرى تأتي بغتةً = والإرهاق في  كليهما أَليمك. وتُقاس إجابتك بالأرقام.  وأفضلها أكبرها رقمًا؛ فيُقاس ما  على الورق لا ما استُفيد. فإن غششت قدرت  على أكبر الأرقام. وإن نجحت في  جمعك أكبر الأرقام فتتخرج من إعداديتك  وتُقبل في ثانوية معروفة في العامة  بامتيازها. وهذا لا يكون إلا بطحن نفسك  وحلّ اسئلة في مواضيع لا تهمك.  وذهابك ووجودك في المدرسة يقطع زمانك ويُذهب وقتك فما بالك بالإعداد لكلّ  الإمتحانات إن طمحت للقب «التلميذ المتفوق».  وتُعيد هذا كله في ثانويتك.  لتعمل بعد تخرجك في عمل لا علاقة له بكل ما  درست وأعددت. وقد قال العلامة عباس العزاوي في [ذكرى أبي الثناء  الألوسي]: «ومدة  التحصيل ليس لها رسوب أو سقوط، فلا يسد العلم في وجه طالب  مهما كانت درجة  علمه منحطة؛ إذ ربما يبقى مدة قصيرة فتظهر مواهبه، أو يستمر أمداً طويلاً  ولا تتبين عليه مخايل المعرفة، فيتأخر، وربما طال. ولا شأن  للمدرس الأستاذ به سوى أداء واجب التعليم والتلقين، والتلقف ليس بشرط، فلا  عجلة في  الطلب، ولا تحديد مدة، إلا أن الأستاذ قد يحرص، فلا يفيد حرصه».&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tthn-lmdrs-ldy-mn-ltlmydh&quot;&gt;تطحن المدارس الدائع من التلاميذ&lt;&#x2F;h2&gt;
+&lt;p&gt;ستدرس أكثر مما تحتاج  حتى وإن كنت تحسن الكتابة أو البرمجة أو الرسم وماهر في  رياضة، وعليك  تحمّل لعاب صراخ المعلّمين فوق هذا. فيُذهب بديعك وهمّتك.  فتقضي وقتك في  أمور لا نفع لها لك حتى تعود دارك وتبدأ في تعلّم ما تحب  وتريد وتحسن فيه. ذلك لأن المدارس لا أدواتًا فيها لتعليم فنون العلم.  وستضحى بأرقامك  (انظر ما سبق) إن ركّزت فيما تُحب، لكنّك بهذا تُشبع رضاك  وتزيد فرصك  لاحقًا. فتعطيك المدارس «علومًا عامة» بها تطحنك وتُثبط من همّتك وعزيمتك. فيقتل  الأستاذ تلميذه. وقد كان الأساتيذ يحفلون بالتلاميذ، ويسترسلون إلى حقيرهم بالأُنس  والانبساط  طمعًا لإصلاحه فإن العلم فضل الله -تعالى- يؤتيه من يشاء، فلا  يستبعد عن  أحد العطايا وإن كان خامل الذكر راقدًا في الزوايا، وفيه من  الخصوصية  المحتاجة إلى معلمٍ صادق، كما قال الأوائل -البصراء لجواهر  النفوس-: «كنا  إذا رأينا في صبي نباهة ألقينا عليه شباكَنا فلا نُخرجه إلا عالمًا».&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tthn-lmdrs-l-stdh-kthnh-ltlmydh&quot;&gt;تطحن المدارس الأساتذة كطحنها التلاميذ&lt;&#x2F;h2&gt;
+&lt;p&gt;يقضي أستاذك وقته  ما تقضيه أنت في المدرسة، وزد عليه تعبه في ضبط ثلاثين  تلميذًا بالصراخ  والضرب، كل يوم. وعليه جمع انتباهك وتصحيح ذهنك الذي تبلّد وذهب بعيدًا بعد ما عانيته من حصة وراء أختها. وما كتبت في امتحانك  الفارغ، سيتكفل هذا  الأستاذ عناء تصحيحه ورصده، فيفعل هذا رغمًا عنه. هذا  وتكليفه بكتاب لا  يتقنه ولا يحسن استنباط الدرس وجمع مادته، فيكون فيكم  كالتلميذ الكبير والأحسن إن اختار التلاميذ ما أرادوا تعلّمه، وأُعطيت  للأستاذ حريته لفعل  ما يريد بالدرس بدلًا من مقرّر غصّب عليهما يُنسى  أغلبه. فيتعلم التلميذ  ما يهتم من فنون العلم ولا تنهك الأستاذ ملازمة  الدروس ويتدواى مزاجه  بحرية ما يفعل فتعرضك المقررات وما تُجبر على  فعله الجنون والكوابيس فتصير بهلولًا فاسد  النفس وألحقوكم بالبهائم لمّا  حبسوك أنت وأستاذك في قفص سمّوه فصلًا.  والحمد لله الذي عافانا&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lmdrs-lyst-mdkhlan-llwzyf&quot;&gt;المدرسة ليست مدخلًا للوظيفة&lt;&#x2F;h2&gt;
+&lt;p&gt;تقول العامة أن المدرسة من  أساسيات الوظيفة، وهذا غير الواقع. فأصحاب الشهائد  في بطالة، ومن ترك  المدرسة يعمل وهو في فتوته. فما تأخذه في المدرسة  (وتنساه) لا يُعمل به في الوظائف. فيُعلمونك ما تعمل في الوظيفة أو تدخل  دورة تدربية تُكملها ثم  تتعيّن. والأحسن لك أن تُعلّم نفسك فنًا من فنون  العلم الذي تُحب خيرٌ لك  من أن تحبس نفسك عشر سنوات في نظام استبدادي سمّته الدولة مدرسة بهتانًا.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;l-ml-hsn-mn-lmdrs&quot;&gt;العمل أحسن من المدرسة&lt;&#x2F;h2&gt;
+&lt;p&gt;أخبرني بعضهم أن العمل «مدرسة»  الكبار قاصدين تشبيههم بيها وجعلهما في كفة واحدة  من العذاب. وهذا غلط.  فأنت حر في اختيار وعملك ووظيفة ترغبها وقادر على أخذ إجازة إن شئت منها  وعندك الحرية فيها بالكلام والتحرك. وهذا كله عكس  المدرسة فليس فيها شيء  من ذاك؛ فيُتحكم بك وتُقيد حريتك ولسانك ولا شيء  تفعله سوى الكتابة ولا  شيء لك بعذابك؛ أما العمل فتؤجر راتبًا كل شهر  يرافقه شعورًا بالإنجاز.  ولا حرية لك في دارك بعد خروجك من مدرستك، على عكس العامل، حتى وإن كان  وقته قليل فحريته كاملة بعد عمله يفعل فيه ما يشاء؛  فيبقى عقلك حبيسَ  المدرسة وإن لم تكن فيها&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lmdrs-tqtl-ltfnn-wltfrd&quot;&gt;المدارس تقتل التفنن والتفرد&lt;&#x2F;h2&gt;
+&lt;p&gt;تُكبس في فصل مع ثلاثين  نفرًا غيرك أكثرهم لا خير فيهم، تجلس معهم في نفس  المقاعد تنتظرون دخول  أستاذ وخروجه واحدًا تلو الآخر بلا كلام ولا حركة  لسنين طوال. وهذا عكس ما كان في الأولين؛ فمن علائم نبوغ التلاميذ عند  الأساتيذ -قديماً- مباحثة  الأساتذة في الدرس، ومحاققة مقالاتهم، ومناقشة  دلائلها. وأما اليوم: لا  تعد المباحثة مع الأساتذة من دلائل نبوغ التلميذ؛  بل -بكل أسف!- من مطالع  الجراءة في العلم، والتقدم على الأكابر، حيث يتعين  على التلاميذ السماع  بلا اعتراض، والقبول دون افتراض. فتَصير عبدًا له  ويصير سيّدًا عليك. تكتب ما تسمع منه، ثم تترقب خوفًا أمر قيامٍ منه ليسألك فيما قال (فجهّز نفسك  جيدًا يا عبد فقد يقع الاختيار عليك الحصة القادمة  وتحمّل إحراجه لك  بصراخه عليك أمام بقية التلاميذ). وتُحرم من إرادتك  ورغباتك وتُسلب منك  فطرتك في البحث للتعلم وتجنّب مَن تبغض مِن الناس وهذا  كله سيعود على  نفسيتك وتنزع البركة من عمرك. ‏فعقلك وروحك ونفسيتك هي وعاء، يملؤها ما  تقرأ وما تسمع. فإن خالطت ما يسوءك، فالنتيجة تكون بتسميم  تفكيرك، وإفساد  روحك، وإتلاف نفسيتك، ولا تعجب حينها إن صرتَ حزينًا  مكتئبًا.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lhsl&quot;&gt;الحاصل:&lt;&#x2F;h2&gt;
+&lt;p&gt;على الاستاذ أن يسمع للمتكلم من التلاميذ  تواضعًا، ويتغافل عن زللهم مروءة،  ويتغمد هفواتهم ساترًا، ولا تستثيره  مخايل الكبر، ولا تستفزه طلعة السوء(!) لأن أعظم مهام وظيفته: الاستصلاح  والترويض، يوتد أذيال التلاميذ برياض  المجالس، للانتفاع بالنفائس. وقد وأورد ابن هداية الله الحسيني في  [طبقات الشافعية] في ترجمة ابن  العطار: «وكان يأخذ على شيخه في الدرس ؛  فقيل له في ذلك، فقال: لا يسقط  الثمرة من الشجرة إلا بهز الأفنان، أو  التقطف بالبنان».&lt;&#x2F;p&gt;
+&lt;p&gt;ولابد من تغيير اسم «وزارة التربية والتعليم» في  بلاد المسلمين إلى  «وزارة الصب والبث». وقد تسمّت بالأولى بهتانًا وزورًا؛  فلا تربية صالحة  فيها ولا علم خالص النفع. تصب المناهج على الطلاب صبًّا  وأكثرها الرديء.  فلا تُصفي المدرسة الضار قبل صبّه وأغلب ما يصب لا يستوعبه التلميذ أصلًا  ولا تكون فيما ينفعه. فأنت المسؤول عن رعيتك في تربيتها  وتعليمها علمًا  نافعًا يكون في عمل صالحٍ فيما بعد، فاجتهد ولا تدع ما  أصابك يُصيبهم ولا  تكل أمرهم للمدرسة.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
