@@ -62,7 +62,6 @@ links = [
         { name = "المزيد", menu = [
 		{ url = "@/kunisha/_index.md", name = "kunisha" },
                 { url = "@/hana/index.md", name = "hana", new = true },
-                { url = "@/alsaleak/index.md", name = "الصعاليك" },
 	] },
 ]
 
