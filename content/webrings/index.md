@@ -2,10 +2,6 @@
 title = "حِلقُ الشّابكة"
 +++
 
-## حِلَقُ الصعاليك
-
-أراضي الصعاليك على الشّابكة. <small> إن أردت أرضك بيننا فارسل شعارك في نادينا على [التِلِڤرَام](https://fulanumoto.github.io/alsaleak/).</small>
-
 <details>
   <summary>المواقع</summary>
 <div class="media-grid-markdown">
