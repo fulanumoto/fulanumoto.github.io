@@ -2,16 +2,6 @@
 title = "حِلقُ الشّابكة"
 +++
 
-<details>
-  <summary>المواقع</summary>
-<div class="media-grid-markdown">
-
-[![qimatr](banner_img/qimatr.png)](https://qimatr.github.io/)
-</div>
-</details>
-
-***
-
 ## حِلَقُ لِين
 
 حِلَقُ لِين هي حِلَقٌ لجمع المواقع والمدونات؛ سَنّها أصحاب موقع «[**Lainchan**](https://www.lainchan.org)» <img class="emoji no-hover" alt="Trollface." src="lainbear.jpg" />  وهو موقع للكتابة ونشر الصور دون اسمٍ تُعرف به، `فتُجهل وتجهَل غيرك`.
