@@ -62,7 +62,7 @@ banner = "banner.jpg"
 
 {% alert(note=true) %}
 منقول من [مقال المعلّم قيّم نَوْكِي يَمَمُوتُو](https://substack.com/home/post/p-180537974)
-{% end %} 
+{% end %}
 
 
 [^1]: باليابانية:  二天一流
