@@ -49,8 +49,9 @@ banner = "banner.jpg"
 
 وعلى الجملة، فإن الفروسية والمكيدة تُنال بالمجاهدة والرياضة كل يوم. فليس المقصد بهجة الناظرين، وإنّما بالمواظبة حتى تصير طبعًا راسخًا وملكة ثابتة.
 
-> [!note]
-> منقول من [مقال المعلّم قيّم نَوْكِي يَمَمُوتُو](https://open.substack.com/pub/naokiyamamoto/p/islamicate-reading-of-japanese-swordsmanship-829)
+{% alert(note=true) %}
+منقول من [مقال المعلّم قيّم نَوْكِي يَمَمُوتُو](https://open.substack.com/pub/naokiyamamoto/p/islamicate-reading-of-japanese-swordsmanship-829
+{% end %}
 
 
 [^1]: باليابانية: 和歌 ومعناها الشعر الياباني
