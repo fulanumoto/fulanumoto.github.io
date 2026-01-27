@@ -50,7 +50,7 @@ banner = "banner.jpg"
 وعلى الجملة، فإن الفروسية والمكيدة تُنال بالمجاهدة والرياضة كل يوم. فليس المقصد بهجة الناظرين، وإنّما بالمواظبة حتى تصير طبعًا راسخًا وملكة ثابتة.
 
 {% alert(note=true) %}
-منقول من [مقال المعلّم قيّم نَوْكِي يَمَمُوتُو](https://open.substack.com/pub/naokiyamamoto/p/islamicate-reading-of-japanese-swordsmanship-829
+منقول من [مقال المعلّم قيّم نَوْكِي يَمَمُوتُو](https://open.substack.com/pub/naokiyamamoto/p/islamicate-reading-of-japanese-swordsmanship-829)
 {% end %}
 
 
