@@ -6,7 +6,6 @@ tags = ["يابانيات"]
 [extra]
 accent_color = "#2596be"
 accent_color_dark = "#2596be"
-featured = true
 banner = "banner.jpg"
 +++
 
@@ -50,8 +49,8 @@ banner = "banner.jpg"
 
 وعلى الجملة، فإن الفروسية والمكيدة تُنال بالمجاهدة والرياضة كل يوم. فليس المقصد بهجة الناظرين، وإنّما بالمواظبة حتى تصير طبعًا راسخًا وملكة ثابتة.
 
-> [!NOTE]
+> [!note]
 > منقول من [مقال المعلّم قيّم نَوْكِي يَمَمُوتُو](https://open.substack.com/pub/naokiyamamoto/p/islamicate-reading-of-japanese-swordsmanship-829)
 
----
+
 [^1]: باليابانية: 和歌 ومعناها الشعر الياباني
