@@ -1,4 +1,4 @@
-https://fulanumoto.github.io/blog/+++
++++
 title = "سيف اليابان بفهم الإسلام [المقدمة]"
 description = "مقدمة المقال."
 [taxonomies]
