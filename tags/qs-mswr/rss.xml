@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>فُلان - قصة مصورة</title>
+      <link>https://fulanumoto.github.io</link>
+      <description>أرضي على الشّابكة.</description>
+      <generator>Zola</generator>
+      <language>ar</language>
+      <atom:link href="https://fulanumoto.github.io/tags/qs-mswr/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>الحمامة الحمراء - 赤い鳩</title>
+          <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+          <author>فُلان الفُلاني</author>
+          <link>https://fulanumoto.github.io/blog/akai-no-hato/</link>
+          <guid>https://fulanumoto.github.io/blog/akai-no-hato/</guid>
+          <description xml:base="https://fulanumoto.github.io/blog/akai-no-hato/">&lt;h2 style=&quot;text-align:center&quot;&gt;السلام عليكم ورحمة الله وبركاته&lt;&#x2F;h2&gt;
+&lt;aside&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;akai-no-hato&#x2F;cover.jpg&quot; alt=&quot;ظنك&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;figcaption&gt;غلاف الفصل الثاني.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;&lt;strong&gt;صنفها&lt;&#x2F;strong&gt;: تاريخيّ&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;كتابة&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20150721173351&#x2F;http:&#x2F;&#x2F;www.koikekazuo.jp&#x2F;&quot;&gt;كَزُو كُويْكِ&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;رسم&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;mangaseek.net&#x2F;person&#x2F;138.html&quot;&gt;رِيُويْتشِي إِيكِغَمِي&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;نشر&lt;&#x2F;strong&gt;: &lt;a href=&quot;http:&#x2F;&#x2F;www.shogakukan.co.jp&#x2F;&quot;&gt;دار شُوغَكُ&lt;&#x2F;a&gt;، 1988.&lt;&#x2F;p&gt;
+&lt;&#x2F;aside&gt;
+&lt;p&gt;هي قصة موضوعة عن سعي داعية -بشنب- &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; لإثبات قرابة بين أهل اليابان واليهود وأنهم سبط من أسباطهم &lt;small&gt;(&lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D9%86%D8%B8%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D8%B5%D9%84_%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A_%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83&quot;&gt;وهذه حكاية من الأكاذيب&lt;&#x2F;a&gt;)&lt;&#x2F;small&gt;، ويُرافقها &lt;abbr title=&quot;ساموراي&quot;&gt;محارب ياباني&lt;&#x2F;abbr&gt; من أصحاب أسلوب الدّهْيُ المَنِيَوي &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;، مهتمُّ بأمر معركة تلّ المتسلم &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-3-1&quot;&gt;&lt;a href=&quot;#fn-3&quot;&gt;[3]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; ومستعظمًا لشأنها، فتبدأ مهمتهما ببحثهما عن أذن عجّل السامريّ المُذهّب لإثبات ما يسعيان إليه.&lt;&#x2F;p&gt;
+&lt;div class=&quot;media-grid-markdown&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;akai-no-hato&#x2F;Akai-Hato-Chapter-35-7.jpg&quot; alt=&quot;أسلوب الدّهْيُ المَنِيَويُّ&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;fulanumoto.github.io&#x2F;blog&#x2F;akai-no-hato&#x2F;yfidnix2rd.jpg#spoiler&quot; alt=&quot;قبر يهودي.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;وفي القصة إكراه على نظرية قرابة أهل اليابان واليهود، يحشرها الكاتب في وجهك مُصدقًا بها حتى بانت فيه الماليخوليا &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-4-1&quot;&gt;&lt;a href=&quot;#fn-4&quot;&gt;[4]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;والرسم حيّ جميل، أمّا القصة فغير مفهومة ولا بينة لم تظهر جمال الرسم الذي شُكّل بها. وأكبر ما يعيبها وينقصها غياب عدوّ مرعب قوي. فلم يُصوّر لنا الكاتب تنظيم أصحاب الشمال ولا كبرائهم، وهم أعداء لأبطال القصة؛ فظلّوا يُحاربون صغائر الأعداء في رحلتهم مرّة في كلّ مكان ينزلون فيه، وهذا هو.&lt;&#x2F;p&gt;
+&lt;p&gt;فلم يُفلح العمل إلا في الرسم. وضاعت القصة في غاية لا تُدركها.&lt;&#x2F;p&gt;
+&lt;p&gt;وضاع وقتي فيها، وعلى ما فيها من رسم حسن، لم تُعجبني.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lhkm&quot;&gt;الحكم&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+مملولة&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+ممتعة&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+أوصي بها&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;واسمها حِبورن، على اسم النصراني &lt;a href=&quot;https:&#x2F;&#x2F;ar.wikipedia.org&#x2F;wiki&#x2F;%D8%AC%D9%8A%D9%85%D8%B3_%D9%83%D9%88%D8%B1%D8%AA%D9%8A%D8%B3_%D9%87%D9%8A%D8%A8%D9%88%D8%B1%D9%86&quot;&gt;يعقوبس حِبورن&lt;&#x2F;a&gt;، وهو من قابل الأصوات اليابانية بالأحرف اللاتينية، وكان صاحب فضل كبير في تقوية  العلاقة بين الولايات المتحدة الأمريكية واليابان. ولم يُذكر في الحكاية سبب رسمه على هيئة امرأة بشنب. وينبزونها بالمُشْعِرة. &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;馬庭念流: هو &lt;a href=&quot;https:&#x2F;&#x2F;ja.wikipedia.org&#x2F;wiki&#x2F;%E9%A6%AC%E5%BA%AD%E5%BF%B5%E6%B5%81&quot;&gt;مذهب من مذاهب القتال يابانية&lt;&#x2F;a&gt;. وضعه «هِيغُتْشِي» عام 1591، وسُمّيَ بالمَنِيَويُّ نسبةً لبلده. (&lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;DFX0kCbFu6g&quot;&gt;مقطع مرئي)&lt;&#x2F;a&gt;. و&lt;a href=&quot;https:&#x2F;&#x2F;ja.wikipedia.org&#x2F;wiki&#x2F;%E5%BF%B5%E6%B5%81&quot;&gt;أسلوب الدَّهْيُ&lt;&#x2F;a&gt; قائم على إصابة الرأي عند المفاجأة، فعمدة مذهبهم: &lt;q&gt;إن قُطعت يُمناك، فاضرب بشمالك، وإن قُطعت شمالك، عضّ سيفك بالنّواجذ.&lt;&#x2F;q&gt; &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-3&quot;&gt;
+&lt;p&gt;ذُكر هذا التلّ باسم «أرمقدون»، وهو موقع تتجمع فيه الجيوش لمعركة كبرى آخر الزمان؛ أمَا عندنا فهي الملحمة الكبرى. &lt;a href=&quot;#fr-3-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-4&quot;&gt;
+&lt;p&gt;عند الأدباء، فإن السّوداء يشير إلى &lt;q&gt;
+التلذذ بالحزن الخفيف الذي يتولد من تذكر السعادة الماضية أو من تصور الأحلام التي لا يعقبها التحقيق.&lt;&#x2F;q&gt; &lt;a href=&quot;#fr-4-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</description>
+      </item>
+    </channel>
+</rss>
