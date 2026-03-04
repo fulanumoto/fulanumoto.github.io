@@ -21,19 +21,11 @@ no_header = true
 
 <div class="icon-grid">
 
-<a href="https://matrix.to/#/@nanashigonbee:midov.pl">
-<img class="transparent no-hover pixels drop-shadow icon" src="icons/matrix.gif" alt="Pixel art Matrix icon." />
-<div class="details">
-<strong>المصفوفة</strong>
-<p><small>أحسنهم أمانًا وخصوصية.</small></p>
-</div>
-</a>
-
 <a href="https://t.me/ful4ni">
 <img class="transparent no-hover pixels drop-shadow icon" src="icons/telegram.gif" alt="Pixel art Telegram icon." />
 <div class="details">
 <strong>التِلِڤرَام</strong>
-<p><small>أهون الشر.</small></p>
+<p><small>شرّ الثلاثة</small></p>
 </div>
 </a>
 
